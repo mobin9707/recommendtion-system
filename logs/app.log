@@ -1,0 +1,55 @@
+2026-10-24 21:15:08 - movie_app - DEBUG - Debug message.
+2026-10-24 21:15:08 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:15:08 - movie_app - WARNING - Some IMDb ratings may be missing.
+2026-10-24 21:15:08 - movie_app - ERROR - Example error message.
+2026-10-24 21:29:13 - movie_app - DEBUG - Debug message.
+2026-10-24 21:29:13 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:29:13 - movie_app - WARNING - Some IMDb ratings may be missing.
+2026-10-24 21:29:13 - movie_app - ERROR - Example error message.
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 3
+2026-10-24 21:29:16 - movie_app - WARNING - Found 1 movies and series with missing or invalid IMDb ratings.
+2026-10-24 21:29:16 - movie_app - INFO - Dataset validation completed successfully. Valid rows: 3
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 1
+2026-10-24 21:29:16 - movie_app - INFO - Dataset validation completed successfully. Valid rows: 1
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 1
+2026-10-24 21:29:16 - movie_app - INFO - Dataset validation completed successfully. Valid rows: 1
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 4
+2026-10-24 21:29:16 - movie_app - INFO - Dataset validation completed successfully. Valid rows: 2
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 3
+2026-10-24 21:29:16 - movie_app - WARNING - Found 1 movies and series with missing or invalid IMDb ratings.
+2026-10-24 21:29:16 - movie_app - INFO - Dataset validation completed successfully. Valid rows: 3
+2026-10-24 21:29:16 - movie_app - ERROR - Movie dataset not found: C:\Users\afra soft\AppData\Local\Temp\pytest-of-afra soft\pytest-2\test_load_movies_raises_when_f0\missing.xlsx
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 1
+2026-10-24 21:29:16 - movie_app - ERROR - Missing required columns: director, actors, theme, imdb
+2026-10-24 21:29:16 - movie_app - INFO - Movie dataset loaded successfully.
+2026-10-24 21:29:16 - movie_app - INFO - Number of movies and series: 2
+2026-10-24 21:29:16 - movie_app - ERROR - The dataset contains no valid movies.
+2026-10-24 21:45:49 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:46:02 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:46:07 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:46:11 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:49:24 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:50:32 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:51:13 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:51:17 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:51:45 - movie_app - INFO - Movie recommendation app started.
+2026-10-24 21:52:40 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:24:42 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:25:28 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:26:13 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:26:54 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:26:54 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:47:38 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:48:24 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:48:52 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:48:52 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:48:52 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:49:50 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:50:23 - movie_app - INFO - Movie recommendation app started.
+2026-10-25 16:50:23 - movie_app - INFO - Movie recommendation app started.
